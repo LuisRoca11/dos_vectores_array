@@ -1,0 +1,14 @@
+/home/linux/Programacion/C Sharp/dos_vectores_array/bin/Debug/net9.0/dos_vectores_array
+/home/linux/Programacion/C Sharp/dos_vectores_array/bin/Debug/net9.0/dos_vectores_array.deps.json
+/home/linux/Programacion/C Sharp/dos_vectores_array/bin/Debug/net9.0/dos_vectores_array.runtimeconfig.json
+/home/linux/Programacion/C Sharp/dos_vectores_array/bin/Debug/net9.0/dos_vectores_array.dll
+/home/linux/Programacion/C Sharp/dos_vectores_array/bin/Debug/net9.0/dos_vectores_array.pdb
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/dos_vectores_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/dos_vectores_array.AssemblyInfoInputs.cache
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/dos_vectores_array.AssemblyInfo.cs
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/dos_vectores_array.csproj.CoreCompileInputs.cache
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/dos_vectores_array.dll
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/refint/dos_vectores_array.dll
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/dos_vectores_array.pdb
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/dos_vectores_array.genruntimeconfig.cache
+/home/linux/Programacion/C Sharp/dos_vectores_array/obj/Debug/net9.0/ref/dos_vectores_array.dll
